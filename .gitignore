@@ -1,0 +1,9 @@
+/QuizApp.Domain/obj/
+/QuizApp.Application/obj/
+/QuizApp.Persistence/obj/
+/QuizApp.Api/obj/
+/QuizApp.Domain/bin/
+/QuizApp.Application/bin/
+/QuizApp.Persistence/bin/
+/QuizApp.Api/bin/
+/.idea/.idea.QuizApp/.idea/indexLayout.xml
